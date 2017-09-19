@@ -1,4 +1,2 @@
 I learn git.
-And git one more time.
-
-Fin.
+git.
